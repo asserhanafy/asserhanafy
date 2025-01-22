@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Asser Hanafy!👋
 
-<!--
-**asserhanafy/asserhanafy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An undergraduate in Computer and Communications Engineering at **Alexandria University**. Motivated student eager to apply my programming skills, academic knowledge and interest in Gaming, Artificial Intelligence (AI) and Cybersecurity to real-world challenges. Passionate about gaining practical experience, collaborating with industry experts, and contributing to innovative projects while continuously enhancing my technical expertise.
 
-Here are some ideas to get you started:
+## 🎓 Education
+**Alexandria University**, *Alexandria, Egypt*  
+*BSc in Computer and Communications Engineering (2022 - 2027)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience
+**Software Engineer | AU Robotics Team**  
+*July 2024 - Present | Alexandria, Egypt*
+
+## 🛠 Skills
+</> **Programming:** C/C++, Python, Java, OOP, Data Structures  
+💻 **Technical:** Arduino, Git, Matlab, VHDL  
+⚙️ **Software Design:** Design Patterns, UML, SOLID Principles
+
+---
+
+## 💬 Connect with me
+📧 [asserhanafy68@gmail.com](mailto:asserhanafy68@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/asser-hanafy/)
+
+✨ Thanks for visiting my profile! Let's connect and collaborate!
