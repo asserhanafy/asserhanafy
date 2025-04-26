@@ -1,6 +1,6 @@
 # Hi, I'm Asser Hanafy!👋
 
-An undergraduate in Computer and Communications Engineering at **Alexandria University**. Motivated student eager to apply my programming skills, academic knowledge and interest in Gaming, Artificial Intelligence (AI) and Cybersecurity to real-world challenges. Passionate about gaining practical experience, collaborating with industry experts, and contributing to innovative projects while continuously enhancing my technical expertise.
+An undergraduate in Computer and Communications Engineering at **Alexandria University**. Motivated student eager to apply my programming skills and academic knowledge to real-world challenges. Passionate about gaining practical experience, collaborating with industry experts, and contributing to innovative projects while continuously enhancing my technical expertise.
 
 ## 🎓 Education
 **Alexandria University**, *Alexandria, Egypt*  
