@@ -10,7 +10,7 @@ An undergraduate in Computer and Communications Engineering at **Alexandria Univ
 **Software Engineer | AU Robotics Team**  
 *July 2024 - Present | Alexandria, Egypt*
 
-## Skills
+## 🛠 Skills
 
 ### Programming
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -21,15 +21,15 @@ An undergraduate in Computer and Communications Engineering at **Alexandria Univ
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-006400?style=for-the-badge)
 
 ### Technical
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-FFA500?style=for-the-badge)
+![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ### Software Design
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-228B22?style=for-the-badge)
-![UML](https://img.shields.io/badge/UML-000000?style=for-the-badge)
 ![SOLID Principles](https://img.shields.io/badge/SOLID%20Principles-800080?style=for-the-badge)
+![UML](https://img.shields.io/badge/UML-000000?style=for-the-badge)
 
 
 ---
@@ -37,7 +37,7 @@ An undergraduate in Computer and Communications Engineering at **Alexandria Univ
 ## 💬 Connect with me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asserhanafy68@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asser-hanafy/)
 
 
 ✨ Thanks for visiting my profile! Let's connect and collaborate!
